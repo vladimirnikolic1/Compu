@@ -1,6 +1,4 @@
-# Compu 
-
-# Compu Typeface
+# Compu Font
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
