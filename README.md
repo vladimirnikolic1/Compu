@@ -1,5 +1,7 @@
 # Compu Font
 
+![Image](documents/image3.png)
+
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
 Weight | wght | 400 | Regular
