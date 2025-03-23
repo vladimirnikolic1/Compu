@@ -1,6 +1,6 @@
 # Compu Font
 
-![Image](documents/image3.png)
+![Image](documents/image(2).png)
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
